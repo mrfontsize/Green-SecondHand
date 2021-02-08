@@ -1,12 +1,11 @@
+import Header from "../Header/Header";
 
 
 const Home = () => (
-<div>
-    <h2>Green Seconhand</h2>
-</div>
-
-)
-
-
+  <div>
+    <Header />
+    <h4>This is the "Home page"</h4>
+  </div>
+);
 
 export default Home;
