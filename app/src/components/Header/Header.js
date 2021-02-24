@@ -6,7 +6,7 @@ const Header = () => {
     <div className="headerContainer">
       <div className="header">
         <Link to={"/"}>
-          <h1>Green Seconhand</h1>
+          <h1>Green Secondhand</h1>
         </Link>
         <div className="links">
           <Link to={"/SellItem"}>Lägg in annons</Link>
